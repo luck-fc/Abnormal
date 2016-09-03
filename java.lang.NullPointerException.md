@@ -18,14 +18,10 @@ Problems encountered in the development of Android
          
          解决方案：
                 需要操作以上两点之前 先判断当前activity是否被销毁 或者 fragment被取消关联销毁等然后再使用 
-                
-<code>
-     if (activity.isFinishing()) {
-        return;
-     }
- </code>
- 
-         偏方：
-         可以设置一个Application List变量用来存放Activity,每次Activity onCreate时add进List,每次Activity onDestroy时remove,到时只要判断List里面是否存在指定的Activity就行了
+                 if (activity.isFinishing()) {
+                    return;
+                 } 
+                 偏方：
+                 可以设置一个Application List变量用来存放Activity,每次Activity onCreate时add进List,每次Activity onDestroy时remove,到时只要判断List里面是否存在指定的Activity就行了
 
-  **三.其他 有待发现**              
+ **三.其他 有待发现**              
