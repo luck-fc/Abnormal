@@ -1,8 +1,9 @@
 # Abnormal
 Problems encountered in the development of Android
 
-android 常见异常
-[java.lang.NullPointerException](https://github.com/luck-fc/Abnormal/blob/master/java.lang.NullPointerException.md)
+android 开发中常见的异常归纳，不断收集中
+
+1.[java.lang.NullPointerException](https://github.com/luck-fc/Abnormal/blob/master/java.lang.NullPointerException.md)
 
     
 开发者 (Developer)
