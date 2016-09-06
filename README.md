@@ -5,6 +5,8 @@ android 开发中常见的异常归纳，不断收集中
 
 1.[java.lang.NullPointerException](https://github.com/luck-fc/Abnormal/blob/master/java.lang.NullPointerException.md)
 
+2.[java.lang.StackOverflowError.md](https://github.com/luck-fc/Abnormal/blob/master/java.lang.StackOverflowError.md)
+
     
 开发者 (Developer)
 ----------------
