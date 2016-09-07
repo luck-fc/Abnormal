@@ -7,6 +7,8 @@ android 开发中常见的异常归纳，不断收集中
 
 2.[java.lang.StackOverflowError.md](https://github.com/luck-fc/Abnormal/blob/master/java.lang.StackOverflowError.md)
 
+3.[java.lang.InstantiationException](https://github.com/luck-fc/Abnormal/blob/master/java.lang.InstantiationException.md)
+
     
 开发者 (Developer)
 ----------------
