@@ -9,7 +9,6 @@ Problems encountered in the installation of Jekyll
 2.gem install jekyll
 
 (1) SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed
-
 (2) ERROR:  Could not find a valid gem 'jekyll' (>= 0) in any repository
 	ERROR:  Possible alternatives: jekyll` 
 	
