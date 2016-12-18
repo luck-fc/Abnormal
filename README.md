@@ -9,6 +9,9 @@ android 开发中常见的异常归纳，不断收集中
 
 3.[java.lang.InstantiationException](https://github.com/luck-fc/Abnormal/blob/master/java.lang.InstantiationException.md)
 
+jekyll 安装遇到的问题
+
+1.[installed_jekyll.md](https://github.com/luck-fc/Abnormal/blob/master/installed_jekyll.md)
     
 开发者 (Developer)
 ----------------
