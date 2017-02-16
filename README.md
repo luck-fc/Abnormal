@@ -12,7 +12,13 @@ android 开发中常见的异常归纳，不断收集中
 jekyll 安装遇到的问题
 
 1.[installed_jekyll.md](https://github.com/luck-fc/Abnormal/blob/master/installed_jekyll.md)
-    
+
+python 开发中遇到的异常
+
+[python_Exception.md](https://github.com/luck-fc/Abnormal/blob/master/python_Exception.md)
+
+
+
 开发者 (Developer)
 ----------------
 
