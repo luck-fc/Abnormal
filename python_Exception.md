@@ -10,7 +10,7 @@ Problems encountered in Python development
 num = 0
 def addnum():
 	global num
-	num++
+	num+=1
 ~~~
 
 * 2.NameError: name 'Variable name' is not defined
