@@ -37,3 +37,17 @@ sys.setdefaultencoding('utf-8')
 result = urllib2.urlopen(req).read()
 result = unicode(result,'GBK').encode('UTF-8')
 ~~~
+万能解决方案
+import chardet
+
+~~~python
+
+import chardet # 导入包https://pypi.python.org/pypi/chardet#downloads
+
+typeEncode = sys.getfilesystemencoding()##這里得到的是系统默认编码
+print chardet.detect(text)['encoding'] #这里打印出来的是就是text内容的的编码 
+json_txt = text.decode(chardet.detect(text)['encoding'],'ignore').encode(typeEncode)
+#或者 
+infoencode = chardet.detect(text).get('encoding','utf-8')
+json_txt = text.decode(infoencode,'ignore').encode(typeEncode)
+~~~
