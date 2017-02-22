@@ -51,3 +51,6 @@ json_txt = text.decode(chardet.detect(text)['encoding'],'ignore').encode(typeEnc
 infoencode = chardet.detect(text).get('encoding','utf-8')
 json_txt = text.decode(infoencode,'ignore').encode(typeEncode)
 ~~~
+
+### 5.IndexError: list index out of range
+类似java常见的数组越界
