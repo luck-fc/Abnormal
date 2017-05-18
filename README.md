@@ -17,7 +17,8 @@ python 开发中遇到的异常
 
 [python_Exception.md](https://github.com/luck-fc/Abnormal/blob/master/python_Exception.md)
 
-
+android studio 遇到的问题
+[Android Stduio](https://github.com/luck-fc/Abnormal/blob/master/Android%20Studio.md)
 
 开发者 (Developer)
 ----------------
