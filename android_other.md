@@ -9,3 +9,7 @@ RecyclerView.post(new Runnable() {
     } 
 });
 ~~~
+
+## AnimatorSet
+* AnimatorSet.playTogether(ObjectAnimator,ObjectAnimator,...);动画监听在android 7.0不同步。
+解决方案给每个ObjectAnimator都添加Animator.AnimatorListener然后个自个view进行操作
