@@ -23,6 +23,11 @@ android studio 遇到的问题
 
 [Android Stduio](https://github.com/luck-fc/Abnormal/blob/master/Android%20Studio.md)
 
+
+js 相关遇到的问题
+
+[js](https://github.com/luck-fc/Abnormal/blob/master/js.md)
+
 开发者 (Developer)
 ----------------
 
